@@ -1,6 +1,7 @@
 # 100days_of_code
 # 🚀 100 Days of Code Challenge
 
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -18,8 +19,7 @@ I’m committing to the **#100DaysOfCode challenge** to improve my coding skills
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryanmaurya5253&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmaurya5253&layout=compact&theme=radical)
-
-> ⚠️ Note: The GitHub streak stats service (`streak-stats.herokuapp.com`) is sometimes down. As an alternative, you can use the [GitHub Streak Widget](https://streak-stats.demolab.com) or skip it for now.
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryanmaurya5253&theme=tokyonight-duo&hide_border=true&border_radius=3" alt="GitHub Streak" /></a>
 
 ---
 
@@ -85,3 +85,4 @@ Passionate about coding, design, and building projects that are both functional 
 
 - GitHub: [Aryanmaurya5253](https://github.com/Aryanmaurya5253)  
 - LinkedIn: [Aryan Maurya](https://www.linkedin.com/in/aryan-maurya-168008372/)  
+
