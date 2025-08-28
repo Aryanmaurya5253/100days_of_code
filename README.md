@@ -1,15 +1,87 @@
 # 100days_of_code
-This is a 100 Days of Code challenge in which I have to solve one problem daily for 100 days, and the tasks are given by my university.
-<h1>Hi 👋, I'm Aryan kumar maurya</h1>
-<p>B.Tech CSE Student @ UPES | Aspiring Software Developer | Backend & Web Enthusiast</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryanmaurya5253&show_icons=true&locale=en" alt="Aryanmaurya5253" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanmaurya5253&show_icons=true&locale=en&layout=compact" alt="Aryanmaurya5253" /></p>
+# 🚀 100 Days of Code Challenge
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+I’m committing to the **#100DaysOfCode challenge** to improve my coding skills, build projects, and stay consistent with programming.  
+
+> *“Code. Learn. Improve. Repeat.”* 🚀
+
+---
+
+## 📈 GitHub Stats
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryanmaurya5253&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmaurya5253&layout=compact&theme=radical)
+
+> ⚠️ Note: The GitHub streak stats service (`streak-stats.herokuapp.com`) is sometimes down. As an alternative, you can use the [GitHub Streak Widget](https://streak-stats.demolab.com) or skip it for now.
+
+---
+
+## 📅 Challenge Details
+- **Start Date:** 28th August 2025  
+- **End Date:** 5th December 2025  
+- **Goal:** Code at least 1 hour every day for 100 days, explore multiple technologies, and build projects.
+
+---
+
+## 🎯 Goals
+- Strengthen skills in **C, Python, JavaScript, HTML, CSS**.  
+- Explore **UI/UX design** using **Figma**.  
+- Build interactive and user-friendly projects combining code and design.  
+- Stay consistent and disciplined throughout the challenge.  
+
+---
+
+## 🛠️ Skills & Progress
+
+| Skill | Level |
+|-------|-------|
+| **C** | ![C](https://img.shields.io/badge/C-80%25-brightgreen) |
+| **Python** | ![Python](https://img.shields.io/badge/Python-70%25-yellowgreen) |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow) |
+| **HTML & CSS** | ![HTMLCSS](https://img.shields.io/badge/HTML_CSS-75%25-blue) |
+| **UI/UX Design (Figma)** | ![Figma](https://img.shields.io/badge/Figma-50%25-red) |
+
+> These progress bars are static but visually indicate your skill levels. You can update them as you improve.
+
+---
+
+## 📊 Progress Log
+
+| Day | Date       | Topics / Projects | Notes / Links |
+|-----|------------|------------------|---------------|
+| 1   | 28-Aug-2025 | HTML, CSS, JavaScript, C, Python, Figma | ✅ Started journey; explored UI/UX design and built basic layouts |
+| 2   | YYYY-MM-DD |  |  |
+| 3   | YYYY-MM-DD |  |  |
+| ... | ...        | ...              | ...           |
+| 100 | 05-Dec-2025 | 🎉 Challenge Completed! | 🚀 |
+
+---
+
+## 🌟 My Projects
+- [Personal Portfolio](#)  
+- [Figma UI/UX Designs](#)  
+- [Web Project Example](#)  
+
+---
+
+## 🗺️ Roadmap
+- Learn advanced JavaScript & frameworks  
+- Build full-stack projects  
+- Master UI/UX design using Figma  
+- Explore Python automation and small scripts  
+
+---
+
+## ✨ About Me
+Hi! I’m **Aryan Maurya**, a **B.Tech CSE student at UPES, Dehradun**.  
+Passionate about coding, design, and building projects that are both functional and user-friendly. I enjoy exploring new technologies, learning every day, and improving my programming and UI/UX skills.  
+
+- GitHub: [Aryanmaurya5253](https://github.com/Aryanmaurya5253)  
+- LinkedIn: [Aryan Maurya](https://www.linkedin.com/in/aryan-maurya-168008372/)  
